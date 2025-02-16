@@ -20,7 +20,7 @@ A aplicação consome a API da Tabela Fipe para buscar e exibir dados sobre veí
 ## ⚙️ Como Executar
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/tabela-fipe-spring.git
+   git clone https://github.com/lucamrtm/tabela-fipe-spring.git
    ```
 2. **Acesse a pasta do projeto:**
    ```bash
