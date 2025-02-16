@@ -1,6 +1,6 @@
-# 📺 Projeto Spring IMDB Series API
+# 🚘 Projeto Spring Tabela Fipe API
 
-Este repositório contém um projeto desenvolvido durante um curso sobre **Spring** e **Streams**, no qual foi criada uma aplicação para consumir a API do **IMDB** e exibir informações sobre séries de TV.
+Este repositório contém um projeto desenvolvido durante um curso sobre **Spring** e **Streams**, no qual foi criada uma aplicação para consumir a API da **Tabela Fipe** e exibir informações sobre veículos.
 
 ## 🚀 Tecnologias Utilizadas
 - **Java 17**
@@ -10,21 +10,21 @@ Este repositório contém um projeto desenvolvido durante um curso sobre **Sprin
 - **Maven**
 
 ## 📚 Descrição do Projeto
-A aplicação consome a API do IMDB para buscar e exibir as séries. O projeto explora conceitos fundamentais do Spring e do uso de Streams para manipulação e filtragem dos dados recebidos.
+A aplicação consome a API da Tabela Fipe para buscar e exibir dados sobre veículos, como marcas, modelos e preços. O projeto explora conceitos fundamentais do Spring, além de manipulação e filtragem de dados usando Streams do Java.
 
 ### 📌 Funcionalidades Principais
-- Conexão com a API do IMDB.
-- Filtragem e exibição de séries populares.
-- Manipulação de dados utilizando Streams.
+- Conexão com a API da Tabela Fipe.
+- Consulta de marcas, modelos e valores.
+- Manipulação de dados com Streams.
 
 ## ⚙️ Como Executar
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/spring-imdb-series-api.git
+   git clone https://github.com/seu-usuario/tabela-fipe-spring.git
    ```
 2. **Acesse a pasta do projeto:**
    ```bash
-   cd spring-imdb-series-api
+   cd tabela-fipe-spring
    ```
 3. **Execute o projeto com Maven:**
    ```bash
@@ -32,7 +32,7 @@ A aplicação consome a API do IMDB para buscar e exibir as séries. O projeto e
    ```
 
 ## 💡 Sobre o Curso
-Este projeto foi desenvolvido como parte de um curso sobre **Spring** e **Streams**, com foco no consumo de APIs externas e na manipulação eficiente de dados utilizando a API de Streams do Java.
+Este projeto foi desenvolvido como parte de um curso sobre **Spring** e **Streams**, com foco no consumo de APIs externas e na manipulação eficiente de dados usando a API de Streams do Java.
 
 ---
 **Autor:** Luca Manfroi 🚀
